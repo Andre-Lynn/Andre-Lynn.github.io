@@ -1,0 +1,43 @@
+/* Title */
+
+h1 {
+  font-family: monospace, sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Table */
+
+table {
+  height: 100%;
+  position: static;
+  width: 100%;
+}
+
+
+thead th {
+  background: teal;
+  color: black;
+  font-family: monospace, sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+tr {
+  background: khaki;
+  }
+
+th, td {
+  font-family: monospace, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  padding: 20px;
+  text-align: left;
+  }
+
+  .code, .bold {
+    background-color: lightblue;
+  }
